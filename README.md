@@ -1,1 +1,3 @@
 # Image coloring using deep learning
+
+Self supervised colorization of grayscale images using convolutional neural net-works have become a very popular approach due to its good results in the fieldrecent years. We trained and compared CNN models to colorize images to explorebest practice within a specific narrow area, namely cats. The baseline model is atrimmed pretrained VGG-16 [reference here] as the encoder and a generative CNNas the decoder. We measure and present the models loss and accuracy, as well assome visual results from the baseline network. We do this using the same trainingand validation dataset for comparison.
