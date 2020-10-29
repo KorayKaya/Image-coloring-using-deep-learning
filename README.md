@@ -1,2 +1,1 @@
-# DD2424-Project
-Image enhancement deep learning
+# Image coloring using deep learning
